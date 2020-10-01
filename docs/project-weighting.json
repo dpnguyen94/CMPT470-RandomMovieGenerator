@@ -1,0 +1,26 @@
+{
+  "count": 4,
+  "self": "pdnguyen",
+  "weights": [
+    {
+      "name": "Duc Phuong Nguyen",
+      "userid": "pdnguyen",
+      "points": 24
+    },
+    {
+      "name": "Joo Young Shim",
+      "userid": "jys2",
+      "points": 23
+    },
+    {
+      "name": "Rico Chao",
+      "userid": "rchao",
+      "points": 18
+    },
+    {
+      "name": "Yoel Yonata",
+      "userid": "yyonata",
+      "points": 15
+    }
+  ],
+  "comments": "Uneven weight distribution due to some team members only doing minimal amount of work assigned and not taking initiatives in the project."
